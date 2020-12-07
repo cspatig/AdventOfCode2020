@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace AdventOfCodeDay6Part1
+namespace AdventOfCodeDay6Part2
 {
     class Program
     {
@@ -25,16 +25,23 @@ namespace AdventOfCodeDay6Part1
             
             foreach (var groupAns in groupAnsList)
             {
-                var uniqueList = new List<char>();
-                foreach (var character in groupAns)
+                var group = groupAns.Split("\n").ToList();
+                foreach (var character in group.First())
                 {
-                    if (character != '\r' && character != '\n')
+                    var isFound = true;
+                    foreach (var member in group)
                     {
-                        uniqueList.Add(character);
+                        if (!member.Contains(character))
+                        {
+                            isFound = false;
+                        }
+                    }
+
+                    if (isFound)
+                    {
+                        sum++;
                     }
                 }
-
-                sum += uniqueList.Distinct().Count();
             }
 
             Console.WriteLine($"The sum is: {sum}");

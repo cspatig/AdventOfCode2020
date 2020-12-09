@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=23d15c2a_002D3c2e_002D4233_002D9f56_002D3a3f2f785e28/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="It_should_contain_two_elements" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C44D9FF8-50A8-4B6B-A2A3-35EB2D291CC8::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part1.Tests.test_sum_permutations&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::C44D9FF8-50A8-4B6B-A2A3-35EB2D291CC8::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part1.Tests.Tests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.testSubCompute.It_should_have_2_elements&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.testSubCompute.It_should_have_1_as_the_first_element&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.testSubCompute&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.testSubComputeNoResult&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.Tests.It_should_have_4_elements&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F03014FA-DE99-4DD8-B1EB-58463E102974::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part2.Tests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d141343_002Dd3f1_002D4118_002D95c0_002D5e2c54066f38/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="It_should_be_127" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C44D9FF8-50A8-4B6B-A2A3-35EB2D291CC8::.NETCoreApp,Version=v3.1::AdventOfCodeDay9Part1.Tests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
